@@ -1,0 +1,45 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfdemobynilesh"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"Department_LinkedService_connectionString": {
+			"value": ""
+		},
+		"EmpDep_LinkedService_connectionString": {
+			"value": ""
+		},
+		"InputData_LinkedList_connectionString": {
+			"value": ""
+		},
+		"InputLinkedService1_connectionString": {
+			"value": ""
+		},
+		"Input_LinkedService_connectionString": {
+			"value": ""
+		},
+		"OutPutData_LinkedService_connectionString": {
+			"value": ""
+		},
+		"OutputDataLinkedService_connectionString": {
+			"value": ""
+		},
+		"OutputLinkedService_connectionString": {
+			"value": ""
+		},
+		"SQLdatatocsv_connectionString": {
+			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
